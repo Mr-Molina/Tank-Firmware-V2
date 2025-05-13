@@ -13,8 +13,6 @@ This project lets you control a robot tank using a game controller (like the one
 
 ## How to Use Your Controller
 
-![Controller Diagram](https://i.imgur.com/example.jpg)
-
 ### Movement Controls
 - **Left Joystick (Up/Down)**: Controls the left wheel
 - **Right Joystick (Up/Down)**: Controls the right wheel
@@ -32,6 +30,17 @@ These buttons help you see what's happening inside your robot:
 - **L2+R2 (pressed together)**: Turn all debugging on/off
 - **X Button**: Show controller information
 - **B Button**: Show sensor information
+
+## Pairing Your PS4 Controller
+
+To connect your PS4 controller to the robot:
+
+1. Press and hold the **PS button** and **Share button** at the same time
+2. Keep holding until the light on the front of the controller starts to blink
+3. Wait for the controller to connect to the robot
+4. When the light becomes solid, your controller is connected!
+
+Once a controller is paired, the robot will reject connections from other controllers. This means only your controller can drive the robot.
 
 ## How It Works
 
